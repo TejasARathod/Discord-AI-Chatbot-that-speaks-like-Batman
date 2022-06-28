@@ -88,5 +88,10 @@ While working on this project I solved a few errors which might be helpful to ot
 
 ![](https://github.com/TejasARathod/Discord-AI-Chatbot-that-speaks-like-Batman/blob/12f03ada1a123833270fb1f5b1a2aff1c3fad1a5/2.png)
 
+## Follow the below link to try out my own Batman-Bot
+
+[Click Here](https://huggingface.co/TejasARathod/DialoGPT-medium-BatmanBot?text=hi)
+
+
 
 
