@@ -2,6 +2,19 @@
 ## Discord-AI-Chatbot-that-speaks-like-Batman 
 
 An AI Chatbot that has been trained to respond like Batman by using DialoGPT model , a generative Pre-Trained Transformer. This Chatbot has then been deployed on Discord using Python through Repl.it
+
+## Index
+
+- Workflow
+- Tech Stack
+- Deployement
+- Tips
+- Acknowledgement
+- Authors
+- License
+- AI Bot Preview
+- Link to try out the AI Bot
+
 ## WorkFlow
 
 - Setup your folder into the google drive and mount it.
